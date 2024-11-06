@@ -6,7 +6,7 @@
 
 <hr>  
 
-- 💼 I’m currently working as a **Lead Engineer** at **Netcore Unbxd**.
+- 💼 I’m currently working as a **Platform Engineer** at **Netcore Unbxd**.
 
 - 👯 I’m eager to contribute to **Open Source Projects**.
 
